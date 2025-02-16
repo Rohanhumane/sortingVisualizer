@@ -1,0 +1,13 @@
+.bars-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 200px;
+}
+
+.bar {
+  width: 40px;
+  margin: 1px;
+  background-color: blue;
+  transition: height 0.2s;
+}
