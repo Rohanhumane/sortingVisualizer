@@ -26,7 +26,7 @@ This project is a **Sorting Algorithm Visualizer** built with **React and TypeSc
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/sorting-visualizer.git
+   git clone https://github.com/Rohanhumane/sortingVisualizer.git
    ```
 2. Navigate to the project directory:
    ```sh
